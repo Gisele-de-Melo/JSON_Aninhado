@@ -12,4 +12,4 @@
 # Blog
 - Content available at:
 - Conteúdo disponível em:
-  https://codedelphi.com/json-aninhado-em-delphi/
+  https://www.codedelphi.com/2024/09/json-aninhado-em-delphi.html
